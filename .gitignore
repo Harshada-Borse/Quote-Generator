@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# IDEs and editors
+.vscode/
+
+# Docker
+*.tar
+*.img
+docker-compose.override.yml
+
+# Ignore compiled requirements (optional)
+pip-log.txt
